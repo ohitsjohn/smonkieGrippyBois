@@ -1,0 +1,8 @@
+.jumbotron
+{
+    background:url('../img/team/gripTruck.jpg') top center;
+    background-size:cover;
+    margin-top: 1em;
+    padding-top: 10em;
+    padding-bottom: 10em;
+}
