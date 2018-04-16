@@ -19,5 +19,6 @@
   "homepage": "https://github.com/ohitsjohn/smonkieGrippyBois#readme",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "devDependencies": {}
 }
