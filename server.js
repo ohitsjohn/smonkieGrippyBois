@@ -2,7 +2,7 @@
 const path = require('path')
 
 const DEFAULT_PORT = 3377
-const WEBSITE_FOLDER = 'smonkieGrippyBois'
+const WEBSITE_FOLDER = ''
 
 const express = require('express')
 const app = express()
